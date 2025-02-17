@@ -1,0 +1,37 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  padding-top: 0; 
+  padding-left: 10px;
+  padding-right: 10px; 
+  font-family: "Inter", sans-serif;
+}
+
+.inter-uniquifier {
+  font-family: "Inter", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.source-code-pro-uniquifier {
+  font-family: "Source Code Pro", monospace;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+footer {
+  background-color: #231161;
+  color: #C99700;
+  padding: 20px;  
+  text-align: center;
+  width: 100%; 
+  font-weight: bold;
+  position: absolute;
+  left: 0;  
+  right: 0; 
+  margin: 0; 
+  box-sizing: border-box; 
+}
